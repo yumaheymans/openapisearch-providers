@@ -4150,6 +4150,16 @@
         "base_url": "https://api.zoom.us/v2"
       },
       "docs": "https://docs.nango.dev/integrations/all/zoom"
+    },
+    "carejobs.now": {
+      "openapiUrl": "https://raw.githubusercontent.com/yumaheymans/carejobs-mcp/main/openapi.yaml",
+      "info": {
+        "description": "CareJobs.Now is a free US healthcare job board: open jobs for nurses, CNAs, doctors and therapists, read daily from employers' career sites, with posted pay. Read-only, no API key.",
+        "x-links": {
+          "docsUrl": "https://carejobs.now/data",
+          "homepageUrl": "https://carejobs.now"
+        }
+      }
     }
   }
 }
